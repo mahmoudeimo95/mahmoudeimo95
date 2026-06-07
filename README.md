@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Mahmoud Atef
 
-<!--
-**mahmoudeimo95/mahmoudeimo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a background in Sales and Management Information Systems (MIS).
 
-Here are some ideas to get you started:
+ Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Visualization
+- Dashboard Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Current Focus
+- Machine Learning
+- Computer Vision
+- AI Models
+
+Upcoming Projects
+- Sales Analytics Dashboard
+- Airbnb Analytics
+- HR Analytics
