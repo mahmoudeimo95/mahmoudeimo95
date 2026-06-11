@@ -6,7 +6,6 @@ Aspiring Data Analyst with a background in Sales and Management Information Syst
 - Excel
 - SQL
 - Python
-- Power BI
 - Data Visualization
 - Dashboard Development
 
